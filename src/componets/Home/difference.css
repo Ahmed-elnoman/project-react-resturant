@@ -1,0 +1,34 @@
+.difference {
+    background-image: url('./../../assets/1.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    text-align: center;
+    color: #777;
+    height: 400px;
+    padding-top: 50px;
+    border-radius: 10px;
+    margin-top: 50px;
+}
+.difference h1 {
+    padding-top: 5%;
+    padding-bottom: 10px;
+    text-transform: uppercase;
+    color: #43121d !important;
+}
+.difference button {
+    padding-top: 15px;
+    background-color: #00000000;
+    border: #00000000;
+    border-radius: #00000000;
+}
+.difference svg {
+    margin-top: -4px;
+}
+.difference a {
+    text-decoration: none;
+    color: #43121d;
+}
+.difference a:hover {
+    color: #000;
+}

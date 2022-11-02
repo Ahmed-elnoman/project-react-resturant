@@ -1,0 +1,21 @@
+.testimonials {
+    margin-top: 100px;
+}
+.testimonials h1 {
+    text-align: center;
+    color: #621628;
+    padding-bottom: 50px;
+}
+.testimonials h5 {
+    color: #621628;
+}
+.testimonials .col-md-6 {
+    border-left: 3px solid #621628;
+}
+.testimonials .m {
+    border-left: 0;
+}
+.testimonials p {
+    color: #777;
+    margin-left: 12px;
+}

@@ -1,0 +1,14 @@
+.number_section {
+    background-color: #621628;
+    color: #fff;
+    padding: 10px 0px;
+    text-align: center;
+    text-transform: uppercase;
+    /* margin-top: ; */
+}
+.number_section p {
+    margin-left: -25px;
+    margin-top: -12px;
+    font-size: 13px;
+    font-family: 'Fasthand';
+}

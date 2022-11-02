@@ -1,0 +1,30 @@
+.ingredients {
+    margin-top: 60px;
+}
+.ingredients h2 {
+    padding-top: 15%;
+    padding-bottom: 11px;
+    color: #43121d;
+    font-size: 32px;
+    line-height: 45px;
+    font-weight: 700;
+    text-transform: uppercase;
+}
+.ingredients p {
+    color: #777;
+}
+.ingredients ul {
+    list-style: none;
+}
+.ingredients svg {
+    color: #dc3545;
+    width: 17px;
+    height: 13px;
+}
+.ingredients button {
+    width: 120px;
+    height: 45px;
+    margin-left: 30px;
+    background-color: #43121d;
+    border: #43121d;
+}

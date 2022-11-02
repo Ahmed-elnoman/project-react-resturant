@@ -1,0 +1,36 @@
+nav {
+    background-color: #fff;
+    width: 100%;
+    max-width: 100%;
+    height: auto;
+    border-radius: 0;
+}
+.left {
+    margin-left: 350px;
+}
+nav a {
+    color: #ab3550 !important;
+    font-weight: bold;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+}
+nav .number {
+    background-color: #ab3550;
+    border: 1px solid #ab3550;
+    box-sizing: border-box;
+    color: #fff !important;
+    border-radius: 10px;
+}
+nav .number:hover {
+    background-color: #fff;
+    border: 2px solid #ab3550;
+    color: #ab3550 !important;
+    transform: .2s;
+}
+
+@media (max-width : 600px) {
+    .left {
+        margin-left: 0;
+    }
+    
+}
